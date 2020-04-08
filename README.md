@@ -1,2 +1,2 @@
 # broken-translations
-A real life problems that occured at Talentoday and used as a challenge for de candidates
+Real life problems that occured at Talentoday and used now as challenges for candidates

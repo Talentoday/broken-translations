@@ -1,0 +1,214 @@
+our_science:
+  title: "Our science"
+  header:
+    title: "Our Science"
+    subtitle:
+      "We combine the science of psychometrics questionnaire with powerful machine
+      learning algorithms to drive smart employment choices."
+  nav:
+    overview: "Overview"
+    myti:
+      short: "mYti"
+      long: "mYti questionaire"
+    matching:
+      short: "Matching"
+      long: "Matching algorithm"
+  overview:
+    intro:
+      title: "We leverage cutting edge science and technology"
+      content:
+        "Talentoday provides smart tools for professionals and individuals that
+        leverage the latest advancements in Psychometrics, Data Analytics and
+        interactive presentation technology. Our solutions bring the science of
+        predictive analytics to recruitment, human resources and career development.
+        The Talentoday team of experts is a combination of psychologists and data
+        scientists from around the world."
+    psychometrics:
+      title: "An assessment based in psychometrics"
+      sentence_1:
+        "Established by Talentoday, the mYti © (My Talent Inventory) questionnaire
+        is a psychometric tool used to assess individuals by evaluating their unique
+        personality traits and motivations. The questionnaire is built on proven
+        psychometric science and leverages the latest technology in personality
+        assessments. It is tailored to recruiters and talent managers."
+      sentence_2:
+        "The questionnaire was recently recalibrated using a sample of 2,350,430
+        international users. It assesses 28 different criteria in 128 questions,
+        featuring 20 personality traits and 8 motivations, and only takes 11 minutes."
+    affiliations:
+      apa:
+        title: "American Psychological Association"
+        content:
+          "Talentoday's psychologists are affiliated members of the American Psychological
+          Association (APA)."
+      itc:
+        title: "International Test Commission"
+        content:
+          "Talentoday is one of the 64 affiliate members of the International Test Commission (membership ID: A0132)."
+    machine_learning:
+      title: "The power of people analytics and machine learning"
+      sentence_1:
+        "At Talentoday, we harness the power of cutting edge data analytics and
+        machine learning for career success. Our algorithm was developed by data
+        scientists at MIT and Stanford, to analyze huge data sets and transform
+        them into personalized predictive insights on individuals and job fit.
+        This data is collected from our assessments and crowdsourcing on our website.
+        Both individuals and organizations contribute to these efforts, continuously
+        enriching solutions and making them smarter."
+      sentence_2:
+        "Predictive analytics is the future of recruiting our machine learning
+        technology enables this process and gives practical future insights about
+        candidates. The algorithms determine the behavioral invariants of a successful
+        and fulfilled population in an automated way, defining a Target Profile for
+        a dedicated position, team, business unit, etc. You can then screen a pool of
+        candidates in just one click, revealing the individuals that match those behavioral
+        criteria and help you predict how a candidate will fit in at the company."
+      sentence_3:
+        "This information is used for staffing agencies and enterprises’ to increase
+        their efficiency in selecting, developing and engaging their talents."
+      testimonial:
+        quote:
+          "The key to success is making sure this assessment data is used
+          consistently to drive decisions throughout the employee lifecycle,
+          from recruitment to retention."
+        author:
+          "Aberdeen Group Research Report, Talent Analytics: Moving Beyond the Hype"
+    intuitive:
+      title: "Modern and intuitive platform"
+      sentence_1:
+        "At Talentoday we recognize the importance of scalability. We have worked
+        hard to create a mobile and web platform that is innovative yet intuitive.
+        The collaborative platform that allows you to work easily with teammates
+        and the unique presentation of personality traits is easily comprehended
+        by individuals who know little about psychology. The technology can be scaled
+        across small organizations & large global corporations and our certification
+        training is available online to professionals who want to enhance their ability
+        to interpret and effectively use mYti results."
+      sentence_2:
+        "Our simple and intuitive interface is a key driver of our success, it appeals
+        especially to the millennials who grew up utilizing similar technologies.
+        In order to take this technology into the future, we are committed to bringing
+        the assessment to all ages."
+    learn_more:
+      title: "Learn more about our psychometrics"
+      content:
+        "Download a comprehensive 10-page guide about Talentoday's questionnaire. Find out details
+        about the questionnaire’s construction, standardization, and psychometric properties."
+      link: "Download the guide"
+  seo_title: "Our Science | Talentoday"
+  seo_description:
+    "Talentoday uses a psychometric personality test in combination with machine
+    learning algorithms to provide career recommendations and recruiting solutions."
+  seo_keywords: science, algorithm, psychometrics, data science, analytics, predictive, validity, psychology, recruiting, assessment solution, tech, psychology, accuracy, research, MIT, Stanford
+
+our_science_matching:
+  intro:
+    title: "What is a Target Profile?"
+    ai:
+      title: "When artificial intelligence meets psychometrics"
+      content:
+        "The goal of our approach is to use the latest innovations in machine learning
+        algorithms to better define the psychology of a group of individuals, thanks to
+        Talentoday's data. This supervised approach to machine learning, when conducted
+        with accurate and reliable data, allows us to precisely differentiate the point
+        clouds describing people's soft skills (human skills). When put into perspective
+        through an expert's vision, the analysis proves to be very relevant."
+    team:
+      title: "Understanding what makes a team unique"
+      content:
+        'The mYti questionnaire, uses ipsative or "forced choice" questions: users
+        are asked to choose between two options based on their personal preferences.
+        This questionnaire format minimizes the social desirability bias because there
+        is no "right answer". The results accurately reflect the specific characteristics
+        of each individual.'
+  scientific:
+    title: "Scientific validation"
+    performance:
+      title: "Evaluating algorithm performance"
+      content:
+        "Evaluating our tools is an essential part of our scientific approach. We
+        follow a methodology that involves self-assessing the performance of our
+        algorithms: after having taught an algorithm to differentiate between individuals
+        based on their position or company, we test this differentiation capacity
+        and calculate the reliability odds."
+    interpreting:
+      title: "Interpreting the results"
+      sentence_1:
+        "Our algorithms not only allow us to appreciate an individual's sense of
+        belonging to a group (company or position), but also to analyze the group
+        in and of itself. We can actually analyze the structure of the psychometric
+        data that defines a group of individuals; in other words, the psychological
+        characteristics that define that group."
+      sentence_2:
+        "The graph below corresponds to an algorithm with a high degree of reliability,
+        showing a very good prediction score and associated area under the ROC curve
+        (<a href='%{link}' target='_blank'>AUC</a>)."
+      sentence_3:
+        "The area under the ROC curve represents the ability of our algorithm to
+        distinguish between individuals who do or do not belong to a specific group.
+        An area of 50 means that our algorithm will not predict any better than at
+        random. On the other hand, an area of 100 means a perfect prediction: no
+        false positives (what seems to be positive, but is in fact negative) and
+        no false negatives (what seems to be negative, but is in fact positive).
+        The area under the ROC curve can never be less than 50."
+      sentence_4:
+        "Here, an accuracy of 95% means that the algorithm is capable of detecting
+        individuals belonging to a reference group (for example, a company) from new
+        data 95% of the time."
+      sentence_5:
+        "The graph below corresponds to an algorithm with poor performance - it is
+        difficult to identify the behavioral invariants. A random candidate is not
+        greatly differentiated from a candidate belonging to a reference group."
+  algorithm_results:
+    title: "Algorithm results"
+
+    representative:
+      title: "Testing on a representative sample"
+      intro:
+        "To measure the accuracy of our algorithms, we sampled different predetermined
+        groups within our member base. In order to obtain a sufficiently large,
+        representative sample, these groups were selected based on various criteria:
+        company size, nationality and industry."
+      companies:
+        intro: "The following companies were selected for this study:"
+        spring: "Spring France (recruitment firm, subsidiary of the Adecco Group)"
+        total: "Total (CAC40 French group in the petroleum industry)"
+        cnrs:
+          'CNRS ("Centre National de Recherche Scientifique", French institute
+          for scientific research)'
+        ehpad:
+          'EHPAD ("Établissement d''Hébergement pour Personnes Âgées Dépendantes",
+          a French health establishment for the elderly)'
+        mcdonalds: "McDonald's (American fast food company)"
+        us_air_force: "US Air Force (American military organization)"
+      job_titles:
+        intro:
+          "We also selected groups of individuals in similar positions at different
+          companies:"
+        software_engineers: "Software Engineers at Google, Facebook and IBM"
+        automotive_engineers: "Automotive Engineers at Tesla, Renault and PSA"
+        consultants: "Consultants at Ernst & Young, McKinsey and Total"
+      conclusion:
+        "While these individuals have certain aspects in common (similar positions),
+        they also present significant differences (very different company cultures).
+        We then selected a group of 1,500 individuals at random in order to confirm any
+        matches a second time around."
+    classification:
+      title: "Classification performance"
+      content:
+        "The classification algorithm predicts the odds percentage of an individual
+        working in a specific company or position (based on their personality and
+        motivation results from the mYti questionnaire). In order to select the best
+        classification algorithm, we tested and evaluated different algorithms. This
+        selection was based on three performance criteria: execution time, prediction
+        score and the area under the ROC curve (AUC)."
+  learn_more:
+    title: "Try our predictive algorithms risk free!"
+    content:
+      "With our cutting edge technology you will be at the forefront of people analytics"
+    download_study: "Download our study"
+  seo_title: "Our Science - Matching Algorithm | Talentoday"
+  seo_description:
+    "Talentoday uses a science based machine learning algorithm in combination with the mYti test results to
+    provide accurate and predictive data on an individual, pinpointing personality strengths and culture fit."
+  seo_keywords: science, algorithm, psychometrics, data science, analytics, predictive, validity, psychology, recruiting, assessment solution, tech, psychology, accuracy, research, MIT, Stanford

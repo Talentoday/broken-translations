@@ -1,0 +1,119 @@
+<main class="our_science overview">
+    <!-- Header ################################################################################## -->
+    <section class="header">
+      <div class="text_and_picture">
+        <div class="text_container">
+          <div class="text">
+            <h1>Our Science</h1>
+            <p>We combine the science of psychometrics questionnaire with powerful machine learning algorithms to drive smart employment choices.</p>
+          </div>
+        </div>
+        <div class="picture_container">
+          <div class="picture">
+            <img alt="Predictive professional behaviors"
+                 title="Predictive professional behaviors"
+                 src="/assets/images/our_science/overview/header_ipad.png">
+          </div>
+        </div>
+      </div>
+      <img class="maps"
+           src="/assets/images/our_science/shared/header_maps.svg">
+    </section>
+  
+    <!-- Nav ##################################################################################### -->
+    {% include our_science/sub_nav.html nav="o" %}
+
+    <!-- Intro ################################################################################### -->
+    <section class="intro">
+      <h2>We leverage cutting edge science and technology</h2>
+      <p>
+        Talentoday provides smart tools for professionals and individuals that leverage the latest advancements in Psychometrics, Data Analytics and interactive presentation technology. Our solutions bring the science of predictive analytics to recruitment, human resources and career development. The Talentoday team of experts is a combination of psychologists and data scientists from around the world.
+      </p>
+    </section>
+  
+    <!-- Psychometrics ########################################################################### -->
+    <section class="psychometrics">
+      <h2>An assessment based in psychometrics</h2>
+      <p>
+        Established by Talentoday, the mYti © (My Talent Inventory) questionnaire is a psychometric tool used to assess individuals by evaluating their unique personality traits and motivations. The questionnaire is built on proven psychometric science and leverages the latest technology in personality assessments. It is tailored to recruiters and talent managers.
+      </p>
+      <p>
+        The questionnaire was recently recalibrated using a sample of 2,350,430 international users. It assesses 28 different criteria in 128 questions, featuring 20 personality traits and 8 motivations, and only takes 11 minutes.
+      </p>
+    </section>
+  
+    <!-- Affiliations ############################################################################ -->
+    <section class="affiliations">
+      <div class="affiliate apa">
+        <h3>American Psychological Association</h3>
+        <p>Talentoday's psychologists are affiliated members of the American Psychological Association (APA).</p>
+        <a href="http://www.apa.org"
+           target="_blank">
+          www.apa.org
+        </a>
+      </div>
+      <div class="affiliate itc">
+        <h3>International Test Commission</h3>
+        <p>Talentoday is one of the 64 affiliate members of the International Test Commission (membership ID: A0132).</p>
+        <a href="http://www.intestcom.org"
+           target="_blank">
+          www.intestcom.org
+        </a>
+      </div>
+    </section>
+  
+    <!-- Machine learning ######################################################################## -->
+    <section class="machine_learning">
+      <h2>The power of people analytics and machine learning</h2>
+      <p>
+        At Talentoday, we harness the power of cutting edge data analytics and machine learning for career success. Our algorithm was developed by data scientists at MIT and Stanford, to analyze huge data sets and transform them into personalized predictive insights on individuals and job fit. This data is collected from our assessments and crowdsourcing on our website. Both individuals and organizations contribute to these efforts, continuously enriching solutions and making them smarter.
+      </p>
+      <p>
+        Predictive analytics is the future of recruiting our machine learning technology enables this process and gives practical future insights about candidates. The algorithms determine the behavioral invariants of a successful and fulfilled population in an automated way, defining a Target Profile for a dedicated position, team, business unit, etc. You can then screen a pool of candidates in just one click, revealing the individuals that match those behavioral criteria and help you predict how a candidate will fit in at the company.
+      </p>
+      <p>
+        This information is used for staffing agencies and enterprises’ to increase their efficiency in selecting, developing and engaging their talents.
+      </p>
+      <div class="testimonial">
+        <blockquote>
+          The key to success is making sure this assessment data is used consistently to drive decisions throughout the employee lifecycle, from recruitment to retention.
+        </blockquote>
+        <span class="author">Aberdeen Group Research Report, Talent Analytics: Moving Beyond the Hype</span>
+      </div>
+    </section>
+  
+    <!-- Intuitive ############################################################################### -->
+    <section class="intuitive">
+      <h2>Modern and intuitive platform</h2>
+      <p>
+        At Talentoday we recognize the importance of scalability. We have worked hard to create a mobile and web platform that is innovative yet intuitive. The collaborative platform that allows you to work easily with teammates and the unique presentation of personality traits is easily comprehended by individuals who know little about psychology. The technology can be scaled across small organizations &amp; large global corporations and our certification training is available online to professionals who want to enhance their ability to interpret and effectively use mYti results.
+      </p>
+      <p>
+        Our simple and intuitive interface is a key driver of our success, it appeals especially to the millennials who grew up utilizing similar technologies. In order to take this technology into the future, we are committed to bringing the assessment to all ages.
+      </p>
+    </section>
+  
+    <!-- Learn more ############################################################################## -->
+    <section class="learn_more">
+      <h2>Learn more about our psychometrics</h2>
+      <p>
+        Download a comprehensive 10-page guide about Talentoday's questionnaire. Find out details about the questionnaire’s construction, standardization, and psychometric properties.
+      </p>
+     <div class="btn_container">
+        <a href="{{ site.lang }}/resources"
+            onClick="tracker.send('event', 'NAV', 'Resources', 'Download Guide');"
+           class="btn btn-info">
+          Download the guide
+        </a>
+         <a href="https://s3.eu-central-1.amazonaws.com/talentoday-production/pdf/Short_technical_manual.pdf"
+           target="_blank"
+           onClick="tracker.send('event', 'PDF', 'Download', 'Short technical manual');"
+           class="btn btn-info">
+          Download the short technical manual
+        </a>
+      </div>
+      <img alt="Guide about Talentoday's questionnaire"
+           title="Guide about Talentoday's questionnaire"
+           src="/assets/images/our_science/overview/guide.png">
+    </section>
+  </main>

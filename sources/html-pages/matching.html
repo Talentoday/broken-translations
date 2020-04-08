@@ -1,0 +1,152 @@
+<main class="our_science matching">
+    <!-- Header ################################################################################## -->
+    <section class="header">
+      <div class="text_and_picture">
+        <div class="text_container">
+          <div class="text">
+            <h1>Our Science</h1>
+            <p>We combine the science of psychometrics questionnaire with powerful machine learning algorithms to drive smart employment choices.</p>
+          </div>
+        </div>
+        <div class="picture_container">
+          <div class="picture">
+            <img alt="Target Profiles"
+                 title="Target Profiles"
+                 src="/assets/images/our_science/matching/header_ipad_tp.png">
+          </div>
+        </div>
+      </div>
+      <img class="maps"
+           src="/assets/images/our_science/shared/header_maps.svg">
+    </section>
+  
+    <!-- Nav ##################################################################################### -->
+    {% include our_science/sub_nav.html nav="m" %}
+  
+    <!-- Intro ################################################################################### -->
+    <section class="intro">
+      <h2>What is a Target Profile?</h2>
+  
+      <article class="ai">
+        <div class="title_container ai">
+          <h3>When artificial intelligence meets psychometrics</h3>
+        </div>
+        <p>
+          The goal of our approach is to use the latest innovations in machine learning algorithms to better define the psychology of a group of individuals, thanks to Talentoday's data. This supervised approach to machine learning, when conducted with accurate and reliable data, allows us to precisely differentiate the point clouds describing people's soft skills (human skills). When put into perspective through an expert's vision, the analysis proves to be very relevant.
+        </p>
+      </article>
+  
+      <article class="team">
+        <div class="title_container team">
+          <h3>Understanding what makes a team unique</h3>
+        </div>
+        <p>
+          The mYti questionnaire, uses ipsative or "forced choice" questions: users are asked to choose between two options based on their personal preferences. This questionnaire format minimizes the social desirability bias because there is no "right answer". The results accurately reflect the specific characteristics of each individual.
+        </p>
+      </article>
+    </section>
+  
+    <!-- Scientific ############################################################################## -->
+    <section class="scientific">
+      <h2>Scientific validation</h2>
+  
+      <article class="performance">
+        <div class="title_container performance">
+          <h3>Evaluating algorithm performance</h3>
+        </div>
+        <p>
+          Evaluating our tools is an essential part of our scientific approach. We follow a methodology that involves self-assessing the performance of our algorithms: after having taught an algorithm to differentiate between individuals based on their position or company, we test this differentiation capacity and calculate the reliability odds.
+        </p>
+      </article>
+  
+      <article class="interpreting">
+        <div class="title_container interpreting">
+          <h3>Interpreting the results</h3>
+        </div>
+        <p>
+          Our algorithms not only allow us to appreciate an individual's sense of belonging to a group (company or position), but also to analyze the group in and of itself. We can actually analyze the structure of the psychometric data that defines a group of individuals; in other words, the psychological characteristics that define that group.
+        </p>
+        <p>
+          The graph below corresponds to an algorithm with a high degree of reliability, showing a very good prediction score and associated area under the ROC curve (<a href="http://scikit-learn.org/stable/modules/model_evaluation.html#roc-metrics%7D" target="_blank">AUC</a>).
+        </p>
+        <p>
+          The area under the ROC curve represents the ability of our algorithm to distinguish between individuals who do or do not belong to a specific group. An area of 50 means that our algorithm will not predict any better than at random. On the other hand, an area of 100 means a perfect prediction: no false positives (what seems to be positive, but is in fact negative) and no false negatives (what seems to be negative, but is in fact positive). The area under the ROC curve can never be less than 50.
+        </p>
+        <img class="scientific_chart_1"
+             src="/assets/images/our_science/matching/scientific_chart_1.svg">
+        <p>
+          Here, an accuracy of 95% means that the algorithm is capable of detecting individuals belonging to a reference group (for example, a company) from new data 95% of the time.
+        </p>
+        <p>
+          The graph below corresponds to an algorithm with poor performance - it is difficult to identify the behavioral invariants. A random candidate is not greatly differentiated from a candidate belonging to a reference group.
+        </p>
+        <img class="scientific_chart_2"
+             src="/assets/images/our_science/matching/scientific_chart_2.svg">
+      </article>
+    </section>
+  
+    <!-- Algorithm results ####################################################################### -->
+    <section class="algorithm_results">
+      <h2>Algorithm results</h2>
+  
+      <article class="representative">
+        <div class="title_container representative">
+          <h3>Testing on a representative sample</h3>
+        </div>
+        <p>
+          To measure the accuracy of our algorithms, we sampled different predetermined groups within our member base. In order to obtain a sufficiently large, representative sample, these groups were selected based on various criteria: company size, nationality and industry.
+        </p>
+        <p class="before_list">The following companies were selected for this study:</p>
+        <ul>
+          <li>Spring France (recruitment firm, subsidiary of the Adecco Group)</li>
+          <li>Total (CAC40 French group in the petroleum industry)</li>
+          <li>CNRS ("Centre National de Recherche Scientifique", French institute for scientific research)</li>
+          <li>EHPAD ("Établissement d'Hébergement pour Personnes Âgées Dépendantes", a French health establishment for the elderly)</li>
+          <li>McDonald's (American fast food company)</li>
+          <li>US Air Force (American military organization)</li>
+        </ul>
+        <p class="before_list">We also selected groups of individuals in similar positions at different companies:</p>
+        <ul>
+          <li>Software Engineers at Google, Facebook and IBM</li>
+          <li>Automotive Engineers at Tesla, Renault and PSA</li>
+          <li>Consultants at Ernst &amp; Young, McKinsey and Total</li>
+        </ul>
+        <p>
+          While these individuals have certain aspects in common (similar positions), they also present significant differences (very different company cultures). We then selected a group of 1,500 individuals at random in order to confirm any matches a second time around.
+        </p>
+      </article>
+  
+      <article class="classification">
+        <div class="title_container classification">
+          <h3>Classification performance</h3>
+        </div>
+        <p>
+          The classification algorithm predicts the odds percentage of an individual working in a specific company or position (based on their personality and motivation results from the mYti questionnaire). In order to select the best classification algorithm, we tested and evaluated different algorithms. This selection was based on three performance criteria: execution time, prediction score and the area under the ROC curve (AUC).
+        </p>
+      </article>
+    </section>
+  
+    <!-- Learn more ############################################################################## -->
+    <section class="learn_more">
+      <h2>Try our predictive algorithms risk free!</h2>
+      <p>With our cutting edge technology you will be at the forefront of people analytics</p>
+      <div class="btn_container">
+        <span class="btn_container">
+          <a href="{{ site.lang }}/request-demo"
+             class="free_trial btn">
+            Request demo
+          </a><!--
+     --></span><!--
+     --><span class="btn_container"><!--
+       --><a class="download btn"
+             href="https://s3.amazonaws.com/talentoday_production/pdf/Talentoday_Improving_talent_management_thanks_to_psychometrics_and_Big_Data_EN.pdf"
+             target="_blank">
+            Download our study
+          </a>
+        </span>
+      </div>
+      <img alt="Data science study"
+           title="Data science study"
+           src="/assets/images/our_science/matching/study.png">
+    </section>
+  </main>

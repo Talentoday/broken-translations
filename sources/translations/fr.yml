@@ -1,0 +1,98 @@
+our_science:
+  title: "Notre science"
+  header:
+    title: "Notre Science"
+    subtitle: "Nous mettons en accord la science du questionnaire psychométrique avec des algorithmes puissants en machine learning pour entraîner des choix d'embauche intelligents."
+  nav:
+    overview: "Aperçu"
+    myti:
+      short: "mYti"
+      long: "Questionnaire mYti"
+    matching:
+      short: "Matching"
+      long: "Algorithme de matching"
+  overview:
+    intro:
+      title: "Nous exploitons la science et la techonologie de pointe"
+      content: "Talentoday apporte des outils intelligents aux professionnels et individus qui exploitent les dernières avancées en Psychométrie, Analyse de données et technologie de présentation interactive. Nos solutions amènent la science des analyses prédictives au recrutement, aux ressources humaines et au développement de carrière. L'équipe d'experts de Talentoday se compose de psychologues et d'experts de données venus du monde entier."
+    psychometrics:
+      title: "Un questionnaire fondé sur la psychométrie"
+      sentence_1: "Le questionnaire mYti (My Talent Inventory) élaboré par Talentoday est un outil fondé sur la science psychométrique qui permet d'évaluer de manière optimale la personnalité et les motivations des individus. L'utilisation du questionnaire mYti convient aux recruteurs et aux manageurs de talents."
+      sentence_2: "Récemment, le questionnaire a été réétalonné à partir d'un échantillon de 2 350 430 utilisateurs à travers le monde. En seulement 11 minutes et 128 questions, le questionnaire passe en revue 28 critères, dont 20 évaluent les traits de personnalité, et 8 les motivations."
+    affiliations:
+      apa:
+        title: "American Psychological Association"
+        content: "Les psychologues de Talentoday sont des membres affiliés de l'American Psychological Association (APA)."
+      itc:
+        title: "International Test Commission"
+        content: 'Talentoday est l''un des 64 membres affiliés de l''International Test Commission (numéro de membre : A0132).'
+    machine_learning:
+      title: "Le pouvoir du people analytics et du machine learning"
+      sentence_1: "Chez Talentoday, nous mettons les ressources offertes par le Big Data au service de la réussite professionnelle. Notre algorithme a été développé par des data-scientists du MIT et de Stanford dans le but d'analyser des immenses groupes de données et les transformer en connaissances personnalisées et prédictives à des individus et à l'adéquation d'un individu à un poste. Ces données sont recoltées à partir du questionnaire, mais également en crowdsourcing depuis notre site internet. Les individus et les organisations contribuent tous deux à cet enrichissement de l'outil et à une meilleure performance globale."
+      sentence_2: "Les analyses prédictives représentent le futur du recrutement. Notre technologie de machine learning nous permet de telles analyses et nous donne des connaissances prédictives pratiques sur des candidats. Les algorithmes utilisent nos bases de données pour déterminer les invariants comportementaux d'une population performante et épanouie, de façon automatique. Ainsi, on peut définir un profil cible, ou “Target Profile” pour un poste donné, une équipe, une unité organisationnelle, etc. Les résultats étant restranscrits graphiquement, il est possible de comparer vos candidats avec ce Target Profile, et d'identifier facilement ceux qui sont en adéquation avec ces critères comportementaux. Ceci vous permet de prédire l'adéquation d'un candidat à une entreprise."
+      sentence_3: "Cette information est utilisée pour que des agences de recrutement et des entreprises augmentent leur efficacité dans la sélection, le développement et l'engagement de leurs talents."
+      testimonial:
+        quote: "Le secret de la réussite est de tout mettre en oeuvre pour que ces données soient utilisées de facon pertinente, comme une aide à la décision, tout au long du parcours de l'employé, depuis son recrutement jusqu'à sa rétention."
+        author: 'Aberdeen Group Research Report, Talent Analytics: Moving Beyond the Hype'
+    intuitive:
+      title: "Plateforme moderne et intuitive"
+      sentence_1: "Chez Talentoday nous reconnaissons l'évolutivité. Nous avons travaillé ardûment pour créer une plateforme mobile et internet qui est à la fois innovatrice et intuitive. La plateforme collaborative vous permet de travailler aisément avec vos collègues et la présentation unique des traits de personnalité est facilement comprise par des individus qui connaissent peu la psychologie. La technologie peut être échelonné à travers des petites structures et des larges sociétés multinationales et notre programme de formation est disponible en ligne à tout professionnel qui souhaite améliorer leur compétences à interpréter et utliser avec efficacité les résultsats mYti."
+      sentence_2: "Notre interface simple et intuitive est un moteur clé de notre succès. Il plaît particulièrement aux générations du millénaire qui ont grandi en utilisant des technologies semblables. Afin d'accompagner cette technologie dans le futur, nous sommes engagés à rendre le questionnaire accessible à tout âge."
+    learn_more:
+      title: "En savoir plus sur notre psychométrie"
+      content: "Téléchargez un guide complet sur le questionnaire Talentoday. Découvrez en détail la construction, la standardisation, et les propriétés psychométriques du questionnaire."
+      link: "Télécharger le guide"
+  seo_title: "Notre Science | Talentoday"
+  seo_description: "Talentoday utilise un questionnaire de personnalité psychométrique et des algorithmes de machine learning pour donner des recommandations de carrière intelligentes."
+  seo_keywords: science, algorithme, psychométrie, data science, analyse, prédictive, validité, psychologie, recrutement, solution d'évaluation, tech, psychologie, validité, recherche, MIT, Stanford
+
+our_science_matching:
+  intro:
+    title: "Qu'est-ce qu'un Target Profile ?"
+    ai:
+      title: "Quand l'intelligence artificielle rejoint la psychométrie"
+      content: "Notre approche a pour but d'utiliser les dernières innovations relatives aux algorithmes de machine learning afin de mieux décrire la psychologie d'un groupe d'individus grâce aux données de Talentoday. Les algorithmes d'intelligence artificielle nous permettent d'appréhender l'organisation des données décrivant la personnalité avec un nouvel angle. L'approche supervisée du machine learning permet, lorsqu'il est entraîné sur des données précises et fiables, de discriminer très précisément les nuages de points décrivant les soft skills (qualités humaines) des individus. Lorsque ceux-ci sont mis en perspective par le regard avisé d'un expert, l'analyse s'avère très pertinente."
+    team:
+      title: "Comprendre qu'est-ce qui rend une équipe unique"
+      content: 'Le questionnaire mYti utilise des questions ipsatives ou "choix forcé" : les utilisateurs sont obligés de choisir entre deux propositions selon leurs préférences personnelles. Ce format de questionnaire possède le double avantage de minimiser le biais d''acceptation et celui de désirabilité sociale parce qu''il n''y a pas de "bonne réponse". Les résultats reflètent avec précision les spécificités individuelles de chaque utilisateur.'
+  scientific:
+    title: "Validation scientifique"
+    performance:
+      title: "Évaluer la performance de l'algorithme"
+      content: 'L''évaluation de nos outils est au coeur de notre approche scientifique. Nous suivons une méthodologie qui nous permet d''auto-évaluer la performance de nos algorithmes : après avoir appris à un algorithme à différencier les individus en fonction d''un poste ou d''une entreprise, nous testons cette capacité de différenciation et déterminons un pourcentage de fiabilité.'
+    interpreting:
+      title: "Interprétation des résultats"
+      sentence_1: "Nos algorithmes ne nous permettent pas seulement d'apprécier l'appartenance d'un individu à un groupe (entreprise ou poste) mais également d'analyser ce groupe en lui-même. En effet, nous pouvons analyser la structure des données psychométriques définissant un groupe d'individu. En d'autres termes, quelles caractéristiques psychologiques définissent ce groupe."
+      sentence_2: "Le schéma ci-dessous correspond à un algorithme qui possède un haut niveau de fiabilité, car nous obtenons un très bon score de prédiction et d'aire sous la courbe ROC rattachés (<a href='%{link}' target='_blank'>AUC</a>)."
+      sentence_3: 'L''aire sous la courbe ROC représente la capacité de notre algorithme à différencier des individus appar- tenant, ou non, à un groupe spécifique. Une aire de 50 signifie que notre algorithme ne prédira pas mieux que ce que ferait le hasard. A contrario, une aire de 100 signifie une prédiction parfaite : aucun faux positifs (déclaré comme positif alors qu''il est en réalité négatif) et aucun faux négatifs (déclaré comme négatif alors qu''il est en réalité positif). L''aire sous la courbe ROC ne peut jamais être inférieur à 50.'
+      sentence_4: "Ici, une précision de 95% signifie que l'algorithme est capable dans 95% des cas, de détecter sur de nouvelles données, des individus appartenant à un groupe de référence (par exemple, une entreprise)."
+      sentence_5: "Le schéma suivant correspond à un algorithme de faible performance : il est difficile d'identifier les invariants comportementaux. Un candidat aléatoire est peu différencié d'un candidat appartenant à un groupe de référence."
+  algorithm_results:
+    title: "Résultats de l'algorithme"
+    representative:
+      title: "Testé sur un échantillon représentatif"
+      intro: 'Afin de mesurer la précision de nos algorithmes, nous avons réalisé un échantillonnage sur différents groupes préexistants au sein de notre base de membres. Pour obtenir un échantillon suffisamment large et représentatif, ces groupes ont été sélectionnés en fonction de différents critères : taille de l''entreprise, nationalité et secteur d''activité.'
+      companies:
+        intro: "Les entreprises sélectionnées pour cette étude sont :"
+        spring: "Spring France (cabinet de recrutement, filiale du groupe Adecco)"
+        total: "Total (groupe français du CAC40 de l'industrie pétrolière)"
+        cnrs: 'CNRS (Centre National de Recherche Scientifique, institut de recherche français)'
+        ehpad: 'EHPAD (Établissement d''Hébergement pour Personnes Âgées Dépendantes, établissement de santé français)'
+        mcdonalds: "McDonald's (entreprise américaine de restauration rapide)"
+        us_air_force: "US Air Force (organisation militaire américaine)"
+      job_titles:
+        intro: "Nous avons également sélectionné des groupes d'individus occupant des postes similaires au sein de différentes entreprises :"
+        software_engineers: "des développeurs informatique chez Google, Facebook et IBM"
+        automotive_engineers: "des ingénieurs automobile chez Tesla, Renault et PSA"
+        consultants: "des consultants chez Ernst & Young, Mc Kinsey et Total"
+      conclusion: "Ces individus ont la particularité de posséder à la fois des caractéristiques communes (postes similaires) et des différences marquées (cultures d'entreprises très différentes). Nous avons également sélectionné un groupe composé de 1 500 individus aléatoires afin de vérifier dans un second temps ces correspondances."
+    classification:
+      title: "Performance de la classification"
+      content: 'L''algorithme de classification prédit le pourcentage de chance qu''un individu a de travailler dans une entreprise ou d''occuper un poste spécifique (en se basant sur sa personnalité et ses motivations résultant du questionnaire mYti). Afin de sélectionner le meilleur algorithme de classification, nous avons testé et évalué différents algorithmes. Cette sélection se base sur trois critères de performance : le temps d''exécution, le score de prédiction et l''aire sous la courbe ROC (AUC).'
+  learn_more:
+    title: "Essayez notre algorithme de prédiction gratuitement !"
+    content: "Avec notre technologie de pointe, vous serez en première ligne de People Analytics"
+    download_study: "Télécharger notre étude"
+  seo_title: "Notre Science - Algorithme de Matching | Talentoday"
+  seo_description: "Talentoday utilise une méthode scientifique à base d'algorithmes de machine learning et de résultats du questionnaire mYti pour fournir des données précises et prédictives sur un individu."
+  seo_keywords: science, algorithme, psychométrie, data science, analyse, prédictive, validité, psychologie, recrutement, solution d'évaluation, tech, psychologie, validité, recherche, MIT, Stanford

@@ -1,0 +1,153 @@
+<main class="our_science matching">
+    <!-- Header ################################################################################## -->
+    <section class="header">
+      <div class="text_and_picture">
+        <div class="text_container">
+          <div class="text">
+              <h1>{% t our_science.header.title %}</h1>
+              <p>{% t our_science.header.subtitle %}</p>
+          </div>
+        </div>
+        <div class="picture_container">
+          <div class="picture">
+            <img alt="Target Profiles"
+                 title="Target Profiles"
+                 src="/assets/images/our_science/matching/header_ipad_tp.png">
+          </div>
+        </div>
+      </div>
+      <img class="maps"
+           src="/assets/images/our_science/shared/header_maps.svg">
+    </section>
+  
+    <!-- Nav ##################################################################################### -->
+    {% include our_science/sub_nav.html nav="m" %}
+  
+    <!-- Intro ################################################################################### -->
+    <section class="intro">
+      <h2>{% t our_science_matching.intro.title %}</h2>
+  
+      <article class="ai">
+        <div class="title_container ai">
+          <h3>{% t our_science_matching.intro.ai.title %}</h3>
+        </div>
+        <p>
+          {% t our_science_matching.intro.ai.content %}
+        </p>
+      </article>
+  
+      <article class="team">
+        <div class="title_container team">
+          <h3>{% t our_science_matching.intro.team.title %}</h3>
+        </div>
+        <p>
+          {% t our_science_matching.intro.team.content %}
+        </p>
+      </article>
+    </section>
+  
+    <!-- Scientific ############################################################################## -->
+    <section class="scientific">
+      <h2>{% t our_science_matching.scientific.title %}</h2>
+  
+      <article class="performance">
+        <div class="title_container performance">
+          <h3>{% t our_science_matching.scientific.performance.title %}</h3>
+        </div>
+        <p>
+          {% t our_science_matching.scientific.performance.content %}
+        </p>
+      </article>
+  
+      <article class="interpreting">
+        <div class="title_container interpreting">
+          <h3>{% t our_science_matching.scientific.interpreting.title %}</h3>
+        </div>
+        <p>
+          {% t our_science_matching.scientific.interpreting.sentence_1 %}
+        </p>
+        <p>
+            {% t our_science_matching.scientific.interpreting.sentence_2 %}
+        </p>
+        <p>
+          {% t our_science_matching.scientific.interpreting.sentence_3 %}
+        </p>
+        <img class="scientific_chart_1"
+             src="/assets/images/our_science/matching/scientific_chart_1.svg">
+        <p>
+          {% t our_science_matching.scientific.interpreting.sentence_4 %}
+        </p>
+        <p>
+          {% t our_science_matching.scientific.interpreting.sentence_5 %}
+        </p>
+        <img class="scientific_chart_2"
+             src="/assets/images/our_science/matching/scientific_chart_2.svg">
+      </article>
+    </section>
+  
+    <!-- {% t our_science_matching.algorithm_results.title %} ####################################################################### -->
+    <section class="algorithm_results">
+      <h2>{% t our_science_matching.algorithm_results.title %}</h2>
+  
+      <article class="representative">
+        <div class="title_container representative">
+          <h3>{% t our_science_matching.algorithm_results.representative.title %}</h3>
+        </div>
+        <p>
+          {% t our_science_matching.algorithm_results.representative.intro %}
+        </p>
+        <p class="before_list">{% t our_science_matching.algorithm_results.representative.companies.intro %}</p>
+        <ul>
+          <li>{% t our_science_matching.algorithm_results.representative.companies.spring %}</li>
+          <li>{% t our_science_matching.algorithm_results.representative.companies.total %}</li>
+          <li>{% t our_science_matching.algorithm_results.representative.companies.cnrs %}</li>
+          <li>{% t our_science_matching.algorithm_results.representative.companies.ehpad %}</li>
+          <li>{% t our_science_matching.algorithm_results.representative.companies.mcdonalds %}</li>
+          <li>{% t our_science_matching.algorithm_results.representative.companies.us_air_force %}</li>
+        </ul>
+        <p class="before_list">{% t our_science_matching.algorithm_results.representative.job_titles.intro %}</p>
+        <ul>
+          <li>{% t our_science_matching.algorithm_results.representative.job_titles.software_engineers %}</li>
+          <li>{% t our_science_matching.algorithm_results.representative.job_titles.automotive_engineers %}</li>
+          <li>{% t our_science_matching.algorithm_results.representative.job_titles.consultants %}</li>
+        </ul>
+        <p>
+          {% t our_science_matching.algorithm_results.representative.conclusion %}
+        </p>
+      </article>
+  
+      <article class="classification">
+        <div class="title_container classification">
+          <h3>{% t our_science_matching.algorithm_results.classification.title %}</h3>
+        </div>
+        <p>
+          {% t our_science_matching.algorithm_results.classification.content %}
+        </p>
+      </article>
+    </section>
+  
+    <!-- Learn more ############################################################################## -->
+    <section class="learn_more">
+      <h2>{% t our_science_matching.learn_more.title %}</h2>
+      <p>{% t our_science_matching.learn_more.content %}</p>
+      <div class="btn_container">
+        <span class="btn_container">
+          <a href="{{ site.lang }}/request-demo"
+             class="free_trial btn">
+             {% t shared.layout.request_demo %}
+          </a><!--
+     --></span><!--
+     --><span class="btn_container"><!--
+       --><a class="download btn"
+             href="https://s3.amazonaws.com/talentoday_production/pdf/Talentoday_Improving_talent_management_thanks_to_psychometrics_and_Big_Data_EN.pdf"
+             target="_blank">
+            {% t our_science_matching.learn_more.download_study %}
+          </a>
+        </span>
+      </div>
+      <img alt="Data science study"
+           title="Data science study"
+           src="/assets/images/our_science/matching/study.png">
+    </section>
+  </main>
+  

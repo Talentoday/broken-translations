@@ -1,0 +1,99 @@
+our_science:
+  title: "Nuestra ciencia"
+  header:
+    title: "Nuestra ciencia"
+    subtitle: "Combinamos nuestra ciencia del cuestionario psicométrico con importantes algoritmos de aprendizaje automático para fomentar decisiones inteligentes de contratación."
+  nav:
+    overview: "Resumen"
+    myti:
+      short: "mYti"
+      long: "cuestionario mYti"
+    matching:
+      short: "Adecuación"
+      long: "Algoritmo de adecuación"
+  overview:
+    intro:
+      title: "Empleamos ciencia puntera y tecnología"
+      content: "Talentoday ofrece herramientas inteligentes para profesionales y personas que emplean los últimos avances en psicometría, análisis de datos y tecnología de presentación interactiva. Nuestras soluciones aplican la ciencia del análisis predictivo a la contratación, los recursos humanos y el desarrollo profesional. El equipo de expertos de Talentoday es una combinación de psicólogos y científicos de datos de todo el mundo."
+    psychometrics:
+      title: "Una evaluación basada en la psicometría"
+      sentence_1: "El cuestionario mYti © (My Talent Inventory), creado por Talentoday, es una herramienta de psicometría para evaluar a las personas en función de sus rasgos de personalidad y motivaciones propios, y por tanto, únicos. El cuestionario se ha  basado en la ciencia psicométrica demostrada, y emplea la tecnología más puntera en evaluación de personalidad. El cuestionario se ha concebido como una herramienta para contratadores y gestores de talento."
+      sentence_2: "El cuestionario se ha actualizado recientemente con una muestra de 2.350.430 usuarios internacionales. En solo 11 minutos y con 128 preguntas, evalúa 28 criterios, los cuales incluyen 20 rasgos de personalidad y 8 motivaciones."
+    affiliations:
+      apa:
+        title: "American Psychological Association"
+        content: "Los psicólogos de Talentoday son miembros de la American Psychological Association (APA)."
+      itc:
+        title: "International Test Commission [Comisión Internacional de Tests]"
+        content: Talentoday es uno de los 64 miembros de la International Test Commission (número de afiliado A0132).
+    machine_learning:
+      title: "La potencia del análisis de las capacidades personales y del aprendizaje automático"
+      sentence_1: "En Talentoday, aplicamos la potencia del análisis de datos y aprendizaje automático más punteros al éxito profesional. Nuestro algoritmo, desarrollado por científicos de datos del MIT y Stanford, permite analizar un gran número de datos y transformarlos en información predictiva personalizada sobre los usuarios y su adecuación a un trabajo. Estos datos se recogen a partir de evaluaciones y de una colaboración masiva en nuestra página web. Tanto particulares como organizaciones contribuyen a esos esfuerzos, que enriquecen nuestras soluciones y las hacen más inteligentes."
+      sentence_2: "El análisis predictivo es el futuro de la contratación. Nuestra tecnología de aprendizaje automático facilita este proceso y ofrece información futura práctica sobre los candidatos. Los algoritmos determinan de forma automatizada las constantes de comportamiento en una población competente y de éxito. Esto permite definir un perfil meta para un determinado puesto, equipo, unidad de negocio, etc. El perfil facilita una sencilla selección de un grupo de candidatos, entre los que cuentan aquellos que cumplen los criterios de comportamiento, y permite predecir cómo se adaptará el candidato a la empresa."
+      sentence_3: "La información se emplea en la contratación de personal en agencias y empresas, con la finalidad de aumentar la eficiencia para seleccionar, desarrollar e involucrar a sus talentos."
+      testimonial:
+        quote: "La clave del éxito está en asegurar que los datos de la evaluación orienten coherentemente las decisiones del contratador; desde la contratación, a la permanencia en el puesto."
+        author: 'Informe de investigación del Aberdeen Group Research Report, Talent Analytics: Moving Beyond the Hype'
+    intuitive:
+      title: "Plataforma intuitiva y moderna"
+      sentence_1: "En Talentoday reconocemos la importancia de la flexibilidad en el volumen. Hemos trabajado duro para crear una plataforma, tanto para ordenadores como para móviles, que sea innovadora e intuitiva. La plataforma de colaboración permite trabajar con compañeros de equipo, y la presentación única de los rasgos de personalidad es fácilmente comprendida por personas que saben poco de psicología. La tecnología es flexible en cuanto a volumen, tanto en las organizaciones pequeñas, como en las grandes sociedades globalizadas. Ofrecemos una formación de certificación online para profesionales que quieran mejorar su habilidad de interpretar y usar con eficiencia los resultados del mYti."
+      sentence_2: "Nuestra interfaz sencilla e intuitiva es una de las claves de nuestro éxito. Atrae especialmente a los millenials, que han crecido con formas de tecnología parecidas. Para llevar esta tecnología hacia el futuro, estamos resueltos a que la evaluación llegue a personas de todas las edades."
+    learn_more:
+      title: "Leer más acerca de la psicometría que empleamos"
+      content: "Descarga una guía completa de 10 páginas sobre los cuestionarios de Talentoday. Descubre las particularidades de la elaboración, estandarización y propiedades psicométricas de los cuestionarios."
+      link: "Descargar guía"
+  seo_title: "Nuestra ciencia | Talentoday"
+  seo_description: "Talentoday emplea un test psicométrico de personalidad junto con algoritmos de aprendizaje automático para ofrecer recomendaciones laborlaes y soluciones en contratación."
+  seo_keywords: ciencia, algoritmo, psicometría, ciencia de datos, análisis, predictivo, validez, psicología, contratación, herramienta de evaluación, tecnología, psicología, precisión, investigación, MIT, Stanford
+
+
+our_science_matching:
+  intro:
+    title: "¿Qué es el perfil meta?"
+    ai:
+      title: "Cuando la inteligencia artificial se combina con la psicometría"
+      content: "El objetivo de nuestro enfoque es usar las innovaciones más punteras en algoritmos de aprendizaje automático para definir mejor la psicología de un grupo de personas gracias a los datos de Talentoday. Este enfoque supervisado del aprendizaje automático, si se realiza con información precisa y fiable, permite diferenciar con precisión las nubes de puntos que describen las soft skills (capacidades humanas) de las personas. Desde el punto de vista de un experto, el análisis resulta muy relevante."
+    team:
+      title: "Comprender qué hace único a un equipo"
+      content: 'El cuestionario mYti emplea preguntas ipsativas o de elección obligada: los usuarios deben elegir entre dos opciones, en función de sus preferencias personales. El formato del cuestionario minimiza el sesgo de aceptación social, ya que no existe una "respuesta correcta". Los resultados reflejan de forma precisa las caracterísitcas específicas de cada persona.'
+  scientific:
+    title: "Validez científica"
+    performance:
+      title: "Evaluación del algoritmo"
+      content: 'La evaluación de nuestras herramientas es una parte esencial de nuestro enfoque científico. Seguimos una metodología que incluye la autoevaluación del funcionamiento de los algoritmos: después de haber enseñado al algoritmo a diferenciar entre personas según su puesto o empresa, probamos esta capacidad de diferenciación y calculamos la probablilidad de fiabilidad.'
+    interpreting:
+      title: "Interpretación de resultados"
+      sentence_1: "Los algoritmos no solo permiten determinar el sentido de pertenencia de una persona a un grupo (empresa o puesto), sino también analizar al grupo en sí; se puede analizar la estructura de los datos psicométricos que definen al grupo, es decir, sus características psicológicas más representativos."
+      sentence_2: "La gráfica a continuación corresponde a la de un algoritmo con un nivel alto de fiabilidad, ya que muestra un buen nivel de predicción y área asociada bajo la curva ROC (<a href='%{link}' target='_blank'>AUC</a>)."
+      sentence_3: 'El área bajo la curva ROC representa la habilidad de nuestro algoritmo para distinguir entre personas que pertenecen o no a un grupo específico. Un área de 50 significa que el algoritmo no se diferencia de cualquier método aleatorio. Sin embargo, un area de 100 significa que la predicción es perfecta: no existen falsos positivos (que parece positivo, pero en realidad es negativo) y no existen falsos negativos (que parece negativo, pero en realidad es positivo). El área bajo la curva ROC nunca puede ser inferior a 50.'
+      sentence_4: "Aquí, una precisión del 95 % significa que el algoritmo puede detectar a partir de datos nuevos a las personas que pertenecen a un grupo de referencia (por ejemplo, una empresa) en el 95 % de los casos ."
+      sentence_5: "La gráfica a continuación corresponde a la de un algoritmo poco fiable, ya que resulta difícil identificar las constantes de comportamiento. Un candidato aleatorio no se diferencia en gran medida de un candidato que pertenece a un grupo de referencia."
+  algorithm_results:
+    title: "Resultados del algoritmo"
+    representative:
+      title: "Pruebas en una muestra representativa"
+      intro: 'Para medir la precisión de los algoritmos, los probamos en varios grupos predeterminados de nuestra base de miembros. Para obtener una muestra lo suficientemente grande y representativa, seleccionamos estos grupos según diferentes criterios: el tamaño de la empresa, la nacionalidad y el sector.'
+      companies:
+        intro: "Se seleccionaron las suiguientes empresas para el estudio:"
+        spring: "Spring France (empresa de contratación, filial del Grupo Adecco)"
+        total: "Total (grupo francés del CAC40 del sector del petróleo)"
+        cnrs: 'CNRS ("Centre National de Recherche Scientifique", instituto francés de investigación científica)'
+        ehpad: 'EHPAD ("Établissement d''Hébergement pour Personnes Âgées Dépendantes", una residencia francesa para la tercera edad)'
+        mcdonalds: "McDonald's (empresa americana de comida rápida)"
+        us_air_force: "US Air Force (organización militar americana)"
+      job_titles:
+        intro: "También hemos seleccionado grupos de personas en puestos similares de otras empresas:"
+        software_engineers: "Ingenieros de software de Google, Facebook e IBM"
+        automotive_engineers: "Ingenieros automotrices de Tesla, Renault y PSA"
+        consultants: "Consultores de Ernst & Young, McKinsey y Total"
+      conclusion: "Estas personas, aunque tienen en común algunos aspectos (puestos similares), presentan diferencias significativas (culturas de empresa muy diferentes). Seleccionamos después un grupo de 1500 personas de forma aleatoria para detectar si había conexiones en una segunda ronda."
+    classification:
+      title: "Funcionamiento de la clasificación"
+      content: 'El algoritmo de clasificación predice el porcentaje de probabilidad de una persona que trabaja en una empresa o puesto en concreto (en función de sus resultados de personalidad y motivación del cuestionario mYti). Para seleccionar el mejor algoritmo de clasificación, probamos y evaluamos los diferentes algoritmos. Esta selección se basó sobre tres criterios de funcionamiento: tiempo de ejecución, calificación de predicción y área bajo la curva ROC (AUC).'
+  learn_more:
+    title: "Prueba nuestros algoritmos predictivos sin riesgos"
+    content: "Nuestra tecnología puntera te situará en la vanguardia del análisis de capacidades personales"
+    download_study: "Descargar estudio"
+  seo_title: "Nuestra ciencia - Algoritmo de combinación | Talentoday"
+  seo_description: "Talentoday emplea un algoritmo de aprendizaje automático junto con los resultados del test mYti test para proporcionar información precisa y predictiva acerca de la persona que permita determinar sus puntos fuertes de personalidad y su adecuación cultural."
+  seo_keywords: ciencia, algoritmo, psicometría, ciencia de datos, análisis, predictivo, validez, psicología, contratación, herramienta de evaluación, tecnología, psicología, precisión, investigación, MIT, Stanford
